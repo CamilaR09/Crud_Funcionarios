@@ -1,0 +1,6 @@
+* la base de datos esta en :
+Crud_Funcionarios\src\Conexion
+* El ejecutable de la aplicacion 
+Crud_Funcionarios\Funcionarios_Ejecutable
+* Link del Archivo GitHub
+https://github.com/CamilaR09/Crud_Funcionarios.git
